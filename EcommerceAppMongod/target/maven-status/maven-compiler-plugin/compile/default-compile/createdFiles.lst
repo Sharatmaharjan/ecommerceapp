@@ -1,0 +1,7 @@
+com\ecommerceapp\controller\CategoryController.class
+com\ecommerceapp\model\Product.class
+com\ecommerceapp\repo\ProductRepo.class
+com\ecommerceapp\service\ProductService.class
+com\ecommerceapp\EcommerceAppMongodApplication.class
+com\ecommerceapp\controller\ProductController.class
+com\ecommerceapp\MvcConfig.class
